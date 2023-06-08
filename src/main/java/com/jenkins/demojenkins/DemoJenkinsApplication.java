@@ -12,7 +12,7 @@ public class DemoJenkinsApplication {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("zz");
+		System.out.println("zzzzz");
 		SpringApplication.run(DemoJenkinsApplication.class, args);
 	}
 
